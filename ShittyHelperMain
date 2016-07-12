@@ -1,0 +1,17 @@
+__author__ = 'devin'
+
+import datetime
+
+date = datetime.date.today()
+time = datetime.datetime.now().time()
+query = 'dank'
+
+while query != 'stop':
+   query = input('What would you like to ask?\n')
+
+   if query.lower() == 'time' or query.lower() == 'what is the time?':
+       print(time)
+   if query.lower() == 'date':
+       print(date)
+
+
