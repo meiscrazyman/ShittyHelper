@@ -5,6 +5,7 @@ its ment to say everything out loud, and hear everything that the user says.
 I want to end up puting it in a rasberry pie.
 
 Checklist
+
   Alarms w/ custom phrasis
   
   Keeps meetings and reminds 30 mins before
